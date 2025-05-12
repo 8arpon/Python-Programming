@@ -6,5 +6,5 @@ for i in range(1, 7):
     marks.append(num) 
     
 marks.sort()
-print(marks)
+print(f"Sorted Marks {marks}")
     

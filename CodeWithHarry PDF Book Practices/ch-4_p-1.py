@@ -2,5 +2,5 @@
 
 fruits = []
 for i in range(1, 8):
-    fruits.append(input("Enter fruit name: "))
-print(fruits)
+    fruits.append(input(f"Enter fruit name {i}: "))
+print(fruits)   
